@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![hello](https://user-images.githubusercontent.com/24212703/202457533-d004373b-c9d8-4cbb-9fd9-965fe59e8822.svg)
 <!--
 **eriksachse/eriksachse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
